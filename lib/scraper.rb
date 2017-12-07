@@ -16,7 +16,7 @@ class Scraper
       # end
     end
 
-    
+
 
     def print_courses
     self.make_courses
