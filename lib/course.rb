@@ -7,4 +7,7 @@ class Course
     @all << self
   end
 
+  def self.reset_all
+    self.all = []
+  end
 end
